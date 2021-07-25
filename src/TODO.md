@@ -10,3 +10,6 @@
 - [x] first authors
 - [x] link?
    > added if found
+
+- [ ] whole? pretrained
+- [ ] MAML?
