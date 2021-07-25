@@ -104,14 +104,14 @@ Wu__COLON__EMNLP19:
   link     : ''
 pasunuru2020fenas:
   conf     : EMNLP
-  firstauth: Pasunuru and Bansal et al.
+  firstauth: Pasunuru and Bansal
   fullauth : "Pasunuru, Ramakanth and Bansal, Mohit"
   title    : 'FENAS: Flexible and Expressive Neural Architecture Search'
   year     : 2020
   link     : ''
 pasunuru2019continual:
   conf     : ACL
-  firstauth: Pasunuru and Bansal et al.
+  firstauth: Pasunuru and Bansal
   fullauth : "Pasunuru, Ramakanth and Bansal, Mohit"
   title    : Continual and Multi-Task Architecture Search
   year     : 2019
