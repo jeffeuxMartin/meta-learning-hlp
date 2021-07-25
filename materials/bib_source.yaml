@@ -214,7 +214,7 @@ Lv__COLON__EMNLP19:
   link     : ''
 Ye__COLON__ACL19:
   conf     : ACL
-  firstauth: Ye et al.
+  firstauth: Ye and Ling
   fullauth : "Zhi-Xiu Ye and Zhen-Hua Ling"
   title    : Multi-Level Matching and Aggregation Network for Few-Shot Relation Classification
   year     : 2019
