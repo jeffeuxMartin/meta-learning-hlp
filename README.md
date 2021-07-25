@@ -1,4 +1,4 @@
-# Reference of NLP tasks using different meta-learning methods.
+# Meta learning for human language processing
 
 ||(A) Learning to initialize|(B) Learning to compare|(C) Other|
 |--- |--- |--- |--- |
