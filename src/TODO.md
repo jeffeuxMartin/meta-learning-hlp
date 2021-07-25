@@ -7,5 +7,5 @@
 5. Normal version for other ML areas
 
 - [x] parenthesis
-- [ ] first authors
+- [x] first authors
 - [ ] link?

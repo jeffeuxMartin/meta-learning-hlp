@@ -46,17 +46,25 @@ for cite_key in parsed_yaml:
     fullauth   = cited_item["fullauth" ].strip().replace("\n", ' ').replace("  ", ' ')
     title      = cited_item["title"    ].strip().replace("\n", ' ').replace("  ", ' ')
     year       = cited_item["year"     ]
+    link       = cited_item["link"     ]
 
     paper_key = \
         f"[{firstauth}, {conf}’{str(year)[2:]}]"
     paper_hungyi_ref = \
         f"<i>{fullauth}</i>, {title}, {conf}, {year}"  # TODO: any bib?
+    if link == '':
+        paper_hungyi_ref_extra = \
+            f"<i>{fullauth}</i>, {title}, {conf}, {year}"
+    else:
+        paper_hungyi_ref_extra = \
+            f"<i>{fullauth}</i>, {title}, {conf}, {year} [:link:]({link})"
     paper_table_form__before = f"[{cite_key}]"
     paper_list_item = (
         paper_key, 
         paper_hungyi_ref,
         paper_table_form__before,
         cite_key,
+        paper_hungyi_ref_extra,
     )
     # region Assign key to papers
     # if key in dup-ref-list:
@@ -91,6 +99,7 @@ for item in hungyi_ref_list:
         paper_hungyi_ref,
         paper_table_form__before,
         cite_key,
+        paper_hungyi_ref_extra,
     ) = hungyi_ref_list[item]
     paper_table_form__after = \
         f"([{item[1:-1]}](#{cite_key}))"
@@ -111,7 +120,24 @@ with open('README.md', 'w') as f:
             paper_hungyi_ref,
             paper_table_form__before,
             cite_key,
+            paper_hungyi_ref_extra,
         ) = hungyi_ref_list[item]
         paper_list_form__wrapped = \
             f"- <span id=\"{cite_key}\"> [[{item[1:-1]}](#back__{cite_key})] {paper_hungyi_ref}</span>"
+        f.write(paper_list_form__wrapped + '\n')
+
+# TODO: Smart extra?
+with open('README_linked.md', 'w') as f:
+    f.write(content)
+    f.write('\n')
+    for item in sorted(hungyi_ref_list):
+        (
+            paper_key, 
+            paper_hungyi_ref,
+            paper_table_form__before,
+            cite_key,
+            paper_hungyi_ref_extra,
+        ) = hungyi_ref_list[item]
+        paper_list_form__wrapped = \
+            f"- <span id=\"{cite_key}\"> [[{item[1:-1]}](#back__{cite_key})] {paper_hungyi_ref_extra}</span>"
         f.write(paper_list_form__wrapped + '\n')

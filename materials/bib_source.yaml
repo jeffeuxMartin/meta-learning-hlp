@@ -5,6 +5,7 @@ Dou__COLON__EMNLP19:
   title    : Investigating Meta-Learning Algorithms for Low-Resource Natural Language
     Understanding Tasks
   year     : 2019
+  link     : ''
 Bansal__COLON__arXiv19:
   conf     : arXiv
   firstauth: Bansal et al.
@@ -12,6 +13,7 @@ Bansal__COLON__arXiv19:
   title    : Learning to Few-Shot Learn Across Diverse Natural Language Classification
     Tasks
   year     : 2019
+  link     : 'https://aclanthology.org/2020.coling-main.448.pdf'
 holla__DASH__etal__DASH__2020__DASH__learning:
   conf     : Findings of EMNLP
   firstauth: Holla et al.
@@ -20,12 +22,14 @@ holla__DASH__etal__DASH__2020__DASH__learning:
   title    : 'Learning to Learn to Disambiguate: Meta-Learning for Few-Shot Word Sense
     Disambiguation'
   year     : 2020
+  link     : ''
 MetaKD__DASH__arXiv21:
   conf     : arXiv
   firstauth: Zhou et al.
   fullauth : "Wangchunshu Zhou and Canwen Xu and Julian McAuley"
   title    : Meta Learning for Knowledge Distillation
   year     : 2021
+  link     : ''
 van__DASH__der__DASH__heijden__DASH__etal__DASH__2021__DASH__multilingual:
   conf     : EACL
   firstauth: van der Heijden et al.
@@ -34,6 +38,7 @@ van__DASH__der__DASH__heijden__DASH__etal__DASH__2021__DASH__multilingual:
   title    : 'Multilingual and cross-lingual document classification: A meta-learning
     approach'
   year     : 2021
+  link     : 'https://aclanthology.org/2021.eacl-main.168.pdf'
 bansal__DASH__etal__DASH__2020__DASH__self:
   conf     : EMNLP
   firstauth: Bansal et al.
@@ -42,6 +47,7 @@ bansal__DASH__etal__DASH__2020__DASH__self:
   title    : Self-Supervised Meta-Learning for Few-Shot Natural Language Classification
     Tasks
   year     : 2020
+  link     : ''
 murty__DASH__etal__DASH__2021__DASH__dreca:
   conf     : NAACL
   firstauth: Murty et al.
@@ -49,6 +55,7 @@ murty__DASH__etal__DASH__2021__DASH__dreca:
   title    : 'DReCa: A General Task Augmentation Strategy for Few-Shot Natural Language
     Inference'
   year     : 2021
+  link     : ''
 Yu__COLON__ACL18:
   conf     : ACL
   firstauth: Yu et al.
@@ -56,6 +63,7 @@ Yu__COLON__ACL18:
     and Yu Cheng and Gerald Tesauro and Haoyu Wang and Bowen Zhou"
   title    : Diverse Few-Shot Text Classification with Multiple Metrics
   year     : 2018
+  link     : ''
 Tan__COLON__EMNLP19:
   conf     : EMNLP
   firstauth: Tan et al.
@@ -63,6 +71,7 @@ Tan__COLON__EMNLP19:
     Shiyu Chang and Mo Yu"
   title    : Out-of-Domain Detection for Low-Resource Text Classification Tasks
   year     : 2019
+  link     : ''
 Geng__COLON__EMNLP19:
   conf     : EMNLP
   firstauth: Geng et al.
@@ -70,18 +79,21 @@ Geng__COLON__EMNLP19:
     and Jian Sun"
   title    : Induction Networks for Few-Shot  Text Classification
   year     : 2019
+  link     : ''
 Sun__COLON__EMNLP19:
   conf     : EMNLP
   firstauth: Sun et al.
   fullauth : "Shengli Sun and Qingfeng Sun and Kevin Zhou and Tengchao Lv"
   title    : Hierarchical Attention Prototypical Networks for Few-Shot Text Classification
   year     : 2019
+  link     : ''
 geng2020dynamic:
   conf     : ACL
   firstauth: Geng et al.
   fullauth : "Geng, Ruiying and Li, Binhua and Li, Yongbin and Sun, Jian and Zhu, Xiaodan"
   title    : Dynamic Memory Induction Networks for Few-Shot Text Classification
   year     : 2020
+  link     : ''
 Wu__COLON__EMNLP19:
   conf     : EMNLP
   firstauth: Wu et al.
@@ -89,30 +101,35 @@ Wu__COLON__EMNLP19:
   title    : 'Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label
     Classification'
   year     : 2019
+  link     : ''
 pasunuru2020fenas:
   conf     : EMNLP
   firstauth: Pasunuru and Bansal et al.
   fullauth : "Pasunuru, Ramakanth and Bansal, Mohit"
   title    : 'FENAS: Flexible and Expressive Neural Architecture Search'
   year     : 2020
+  link     : ''
 pasunuru2019continual:
   conf     : ACL
   firstauth: Pasunuru and Bansal et al.
   fullauth : "Pasunuru, Ramakanth and Bansal, Mohit"
   title    : Continual and Multi-Task Architecture Search
   year     : 2019
+  link     : ''
 learningToOptimize__COLON__metaNLP21:
   conf     : MetaNLP
   firstauth: Xu et al.
   fullauth : "Weijia Xu and Batool Haider and Jason Krone and Saab Mansour"
   title    : Soft Layer Selection with Meta-Learning for Zero-Shot Cross-Lingual Transfer
   year     : 2021
+  link     : ''
 label__DASH__correction__DASH__aaai21:
   conf     : AAAI
   firstauth: Zheng et al.
   fullauth : "Guoqing Zheng and Ahmed H. Awadallah and Susan Dumais"
   title    : Meta Label Correction for Noisy Label Learning
   year     : 2021
+  link     : ''
 Wu__COLON__AAAI20:
   conf     : AAAI
   firstauth: Wu et al.
@@ -121,6 +138,7 @@ Wu__COLON__AAAI20:
   title    : Enhanced Meta-Learning for Cross-lingual Named Entity Recognition with Minimal
     Resources
   year     : 2020
+  link     : ''
 xia__DASH__etal__DASH__2021__DASH__metaxl:
   conf     : NAACL
   firstauth: Xia et al.
@@ -129,6 +147,7 @@ xia__DASH__etal__DASH__2021__DASH__metaxl:
   title    : 'MetaXL: Meta Representation Transformation for Low-resource Cross-lingual
     Learning'
   year     : 2021
+  link     : ''
 Hou__COLON__ACL20:
   conf     : ACL
   firstauth: Hou et al.
@@ -137,6 +156,7 @@ Hou__COLON__ACL20:
   title    : Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced
     Task-adaptive Projection Network
   year     : 2020
+  link     : ''
 yang2020frustratingly:
   conf     : EMNLP
   firstauth: Yi and Katiyar
@@ -144,12 +164,14 @@ yang2020frustratingly:
   title    : Frustratingly Simple Few-Shot Named Entity Recognition with Structured Nearest
     Neighbor Learning
   year     : 2020
+  link     : ''
 oguz2021few:
   conf     : EACL
   firstauth: Oguz and Vu
   fullauth : "Oguz, Cennet and Vu, Ngoc Thang"
   title    : Few-shot Learning for Slot Tagging with Attentive Relational Network
   year     : 2021
+  link     : ''
 li2020learning:
   conf     : ACL
   firstauth: Li et al.
@@ -157,6 +179,7 @@ li2020learning:
     and Xiao, Tong and Zhu, Jingbo and Liu, Tongran and Li, Changliang"
   title    : Learning Architectures from an Extended Search Space for Language Modeling
   year     : 2020
+  link     : ''
 jiang2019improved:
   conf     : EMNLP
   firstauth: Jiang et al.
@@ -165,18 +188,21 @@ jiang2019improved:
   title    : Improved differentiable architecture search for language modeling and named
     entity recognition
   year     : 2019
+  link     : ''
 Obamuyide__COLON__ACL19:
   conf     : ACL
   firstauth: Obamuyide and Vlachos
   fullauth : "Abiola Obamuyide and Andreas Vlachos"
   title    : Model-Agnostic Meta-Learning for Relation Classification with Limited Supervision
   year     : 2019
+  link     : ''
 Bose__COLON__arXiv19:
   conf     : arXiv
   firstauth: Bose et al.
   fullauth : "Avishek Joey Bose and Ankit Jain and Piero Molino and William L. Hamilton"
   title    : Meta-Graph:Few shot Link Prediction via Meta Learning
   year     : 2019
+  link     : ''
 Lv__COLON__EMNLP19:
   conf     : EMNLP
   firstauth: Lv et al.
@@ -185,18 +211,21 @@ Lv__COLON__EMNLP19:
   title    : Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot
     Relations
   year     : 2019
+  link     : ''
 Ye__COLON__ACL19:
   conf     : ACL
   firstauth: Ye et al.
   fullauth : "Zhi-Xiu Ye and Zhen-Hua Ling"
   title    : Multi-Level Matching and Aggregation Network for Few-Shot Relation Classification
   year     : 2019
+  link     : ''
 Chen__COLON__EMNLP19:
   conf     : EMNLP
   firstauth: Chen et al.
   fullauth : "Mingyang Chen and Wen Zhang and Wei Zhang and Qiang Chen and Huajun Chen"
   title    : Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs
   year     : 2019
+  link     : ''
 Xiong__COLON__EMNLP18:
   conf     : EMNLP
   firstauth: Xiong et al.
@@ -204,6 +233,7 @@ Xiong__COLON__EMNLP18:
     Wang"
   title    : One-Shot Relational Learning for Knowledge Graphs
   year     : 2018
+  link     : ''
 Gao__COLON__AAAI19:
   conf     : AAAI
   firstauth: Gao et al.
@@ -211,6 +241,7 @@ Gao__COLON__AAAI19:
   title    : Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation
     Classification
   year     : 2019
+  link     : ''
 ren2020two:
   conf     : COLING
   firstauth: Ren et al.
@@ -218,6 +249,7 @@ ren2020two:
   title    : A Two-phase Prototypical Network Model for Incremental Few-shot Relation
     Classification
   year     : 2020
+  link     : ''
 xiong2018one:
   conf     : EMNLP
   firstauth: Xiong et al.
@@ -225,12 +257,14 @@ xiong2018one:
     William Yang"
   title    : One-Shot Relational Learning for Knowledge Graphs
   year     : 2018
+  link     : ''
 wang2019tackling:
   conf     : EMNLP-IJCNLP
   firstauth: Wang et al.
   fullauth : "Wang, Zihao and Lai, Kwunping and Li, Piji and Bing, Lidong and Lam, Wai"
   title    : Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion
   year     : 2019
+  link     : ''
 zhang2020few:
   conf     : AAAI
   firstauth: Zhang et al.
@@ -238,6 +272,7 @@ zhang2020few:
     and Chawla, Nitesh V"
   title    : Few-shot knowledge graph completion
   year     : 2020
+  link     : ''
 sheng2020adaptive:
   conf     : EMNLP
   firstauth: Sheng et al.
@@ -245,18 +280,21 @@ sheng2020adaptive:
     and Liu, Tingwen and Xu, Hongbo"
   title    : Adaptive Attentional Network for Few-Shot Knowledge Graph Completion
   year     : 2020
+  link     : ''
 Hu__COLON__ACL19:
   conf     : ACL
   firstauth: Hu et al.
   fullauth : "Ziniu Hu and Ting Chen and Kai-Wei Chang and Yizhou Sun"
   title    : Few-Shot Representation Learning for Out-Of-Vocabulary Words
   year     : 2019
+  link     : ''
 Sun__COLON__EMNLP18:
   conf     : EMNLP
   firstauth: Sun et al.
   fullauth : "Jingyuan Sun and Shaonan Wang and Chengqing Zong"
   title    : Memory, Show the Way:Memory Based Few Shot Word Representation Learning
   year     : 2018
+  link     : ''
 li2020learning:
   conf     : ACL
   firstauth: Li et al.
@@ -264,6 +302,7 @@ li2020learning:
     and Xiao, Tong and Zhu, Jingbo and Liu, Tongran and Li, Changliang"
   title    : Learning Architectures from an Extended Search Space for Language Modeling
   year     : 2020
+  link     : ''
 jiang2019improved:
   conf     : EMNLP
   firstauth: Jiang et al.
@@ -272,6 +311,7 @@ jiang2019improved:
   title    : Improved differentiable architecture search for language modeling and named
     entity recognition
   year     : 2019
+  link     : ''
 mhamdi__DASH__etal__DASH__2021__DASH__x:
   conf     : NAACL
   firstauth: M'hamdi et al.
@@ -280,6 +320,7 @@ mhamdi__DASH__etal__DASH__2021__DASH__x:
   title    : 'X-METRA-ADA: Cross-lingual Meta-Transfer learning Adaptation to Natural
     Language Understanding and Question Answering'
   year     : 2021
+  link     : ''
 nooralahzadeh__DASH__etal__DASH__2020__DASH__zero:
   conf     : EMNLP
   firstauth: Nooralahzadeh et al.
@@ -287,12 +328,14 @@ nooralahzadeh__DASH__etal__DASH__2020__DASH__zero:
     Augenstein, Isabelle"
   title    : Zero-Shot Cross-Lingual Transfer with Meta Learning
   year     : 2020
+  link     : ''
 yan__DASH__etal__DASH__2020__DASH__multi__DASH__source:
   conf     : ACL
   firstauth: Yan et al.
   fullauth : "Yan, Ming and Zhang, Hao and Jin, Di and Zhou, Joey Tianyi"
   title    : Multi-source Meta Transfer for Low Resource Multiple-Choice Question Answering
   year     : 2020
+  link     : ''
 hua__DASH__etal__DASH__2020__DASH__shot:
   conf     : EMNLP
   firstauth: Hua et al.
@@ -301,6 +344,7 @@ hua__DASH__etal__DASH__2020__DASH__shot:
   title    : Few-Shot Complex Knowledge Base Question Answering via Meta Reinforcement
     Learning
   year     : 2020
+  link     : ''
 Gu__COLON__EMNLP18:
   conf     : EMNLP
   firstauth: Gu et al.
@@ -308,6 +352,7 @@ Gu__COLON__EMNLP18:
     Li"
   title    : Meta-Learning for Low-Resource Neural Machine Translation
   year     : 2018
+  link     : ''
 Indurthi__COLON__arXiv19:
   conf     : ICASSP
   firstauth: Indurthi et al.
@@ -315,6 +360,7 @@ Indurthi__COLON__arXiv19:
     Lee and Insoo Chung and Sangha Kim and Chanwoo Kim"
   title    : Data Efficient Direct Speech-to-Text Translation with Modality Agnostic Meta-Learning
   year     : 2020
+  link     : ''
 Li_Wang_Yu_2020:
   conf     : AAAI
   firstauth: Li et al.
@@ -322,6 +368,7 @@ Li_Wang_Yu_2020:
   title    : MetaMT, a Meta Learning Method Leveraging Multiple Domain Data for Low Resource
     Machine Translation
   year     : 2020
+  link     : ''
 unsupervisedMT__DASH__acl21:
   conf     : ACL
   firstauth: Park et al.
@@ -329,6 +376,7 @@ unsupervisedMT__DASH__acl21:
     Azam Khan and Eunjeong Park and Jaegul Choo"
   title    : Unsupervised Neural Machine Translation for Low-Resource Domains via Meta-Learning
   year     : 2021
+  link     : ''
 wang2020hat:
   conf     : ACL
   firstauth: Wang et al.
@@ -336,24 +384,28 @@ wang2020hat:
     and Gan, Chuang and Han, Song"
   title    : 'HAT: Hardware-Aware Transformers for Efficient Natural Language Processing'
   year     : 2020
+  link     : ''
 wang2020balancing:
   conf     : ACL
   firstauth: Wang et al.
   fullauth : "Wang, Xinyi and Tsvetkov, Yulia and Neubig, Graham"
   title    : Balancing Training for Multilingual Neural Machine Translation
   year     : 2020
+  link     : ''
 pham2020meta:
   conf     : ICLR
   firstauth: Pham et al.
   fullauth : "Pham, Hieu and Wang, Xinyi and Yang, Yiming and Neubig, Graham"
   title    : Meta Back-Translation
   year     : 2021
+  link     : ''
 Guo__COLON__ACL19:
   conf     : ACL
   firstauth: Guo et al.
   fullauth : "Daya Guo and Duyu Tang and Nan Duan and Ming Zhou and Jian Yin"
   title    : Coupling Retrieval and Meta-Learning for Context-Dependent Semantic Parsing
   year     : 2019
+  link     : ''
 Huang__COLON__NAACL18:
   conf     : NAACL
   firstauth: Huang et al.
@@ -361,6 +413,7 @@ Huang__COLON__NAACL18:
     Xiaodong He"
   title    : Natural Language to Structured Query Generation via Meta-Learning
   year     : 2018
+  link     : ''
 multiparsing:
   conf     : arXiv
   firstauth: Langedijk et al.
@@ -368,6 +421,7 @@ multiparsing:
     Bryan Cardenas Guevara and Helen Yannakoudakis and Ekaterina Shutova"
   title    : Meta-learning for fast cross-lingual adaptation in dependency parsing
   year     : 2021
+  link     : ''
 chen__DASH__etal__DASH__2020__DASH__low:
   conf     : EMNLP
   firstauth: Chen et al.
@@ -375,24 +429,28 @@ chen__DASH__etal__DASH__2020__DASH__low:
     Luke  and Gupta, Sonal"
   title    : Low-Resource Domain Adaptation for Compositional Task-Oriented Semantic Parsing
   year     : 2020
+  link     : ''
 wang__DASH__etal__DASH__2021__DASH__meta:
   conf     : NAACL
   firstauth: Wang et al.
   fullauth : "Wang, Bailin and Lapata, Mirella and Titov, Ivan"
   title    : Meta-Learning for Domain Generalization in Semantic Parsing
   year     : 2021
+  link     : 'https://aclanthology.org/2021.naacl-main.33.pdf'
 Qian__COLON__ACL19:
   conf     : ACL
   firstauth: Qian et al.
   fullauth : "Kun Qian and Zhou Yu"
   title    : Domain Adaptive Dialog Generation via Meta Learning
   year     : 2019
+  link     : ''
 Madotto__COLON__ACL19:
   conf     : ACL
   firstauth: Madotto et al.
   fullauth : "Andrea Madotto and Zhaojiang Lin and Chien-Sheng Wu and Pascale Fung"
   title    : Personalizing Dialogue Agents via Meta-Learning
   year     : 2019
+  link     : ''
 Mi__COLON__IJCAI19:
   conf     : IJCAI
   firstauth: Mi et al.
@@ -400,6 +458,7 @@ Mi__COLON__IJCAI19:
   title    : Meta-Learning for Low-resource Natural Language Generation in Task-oriented
     Dialogue Systems
   year     : 2019
+  link     : ''
 Huang__COLON__ACL20:
   conf     : ACL
   firstauth: Huang et al.
@@ -407,6 +466,7 @@ Huang__COLON__ACL20:
     Shuo Ma"
   title    : Meta-Reinforced Multi-Domain State Generator for Dialogue Systems
   year     : 2020
+  link     : ''
 dingliwal__DASH__etal__DASH__2021__DASH__shot:
   conf     : EACL
   firstauth: Dingliwal et al.
@@ -414,6 +474,7 @@ dingliwal__DASH__etal__DASH__2021__DASH__shot:
     Chung, Tagyoung  and Hakkani-Tur, Dilek"
   title    : Few Shot Dialogue State Tracking using Meta-learning
   year     : 2021
+  link     : ''
 ST__DASH__dialogue__DASH__AAAI21:
   conf     : AAAI
   firstauth: Qian et al.
@@ -421,6 +482,7 @@ ST__DASH__dialogue__DASH__AAAI21:
   title    : A Student-Teacher Architecture for Dialog Domain Adaptation under the Meta-Learning
     Setting
   year     : 2021
+  link     : ''
 dai__DASH__etal__DASH__2020__DASH__learning:
   conf     : ACL
   firstauth: Dai et al.
@@ -429,30 +491,35 @@ dai__DASH__etal__DASH__2020__DASH__learning:
   title    : Learning Low-Resource End-To-End Goal-Oriented Dialog for Fast and Reliable
     System Deployment
   year     : 2020
+  link     : ''
 huang__DASH__etal__DASH__2020__DASH__towards__DASH__low:
   conf     : Findings of EMNLP
   firstauth: Huang et al.
   fullauth : "Huang, Yi and Feng, Junlan and Ma, Shuo and Du, Xiaoyu and Wu, Xiaoting"
   title    : Towards Low-Resource Semi-Supervised Dialogue Generation with Meta-Learning
   year     : 2020
+  link     : ''
 Chien__COLON__INTERSPEECH19:
   conf     : INTERSPEECH
   firstauth: Chien and Lieow
   fullauth : "Jen-Tzung Chien and Wei Xiang Lieow"
   title    : Meta Learning for Hyperparameter Optimization in Dialogue System
   year     : 2019
+  link     : ''
 Hsu__COLON__ICASSP20:
   conf     : ICASSP
   firstauth: Hsu et al.
   fullauth : "Jui-Yang Hsu and Yuan-Jui Chen and Hung-yi Lee"
   title    : Meta Learning for End-to-End Low-Resource Speech Recognition
   year     : 2020
+  link     : ''
 Klejch__COLON__ASRU19:
   conf     : ASRU
   firstauth: Klejch et al.
   fullauth : "Ondřej Klejch and Joachim Fainberg and Peter Bell and Steve Renals"
   title    : Speaker Adaptive Training using Model Agnostic Meta-Learning
   year     : 2019
+  link     : ''
 Winata__COLON__ACL2020:
   conf     : ACL
   firstauth: Winata et al.
@@ -460,6 +527,7 @@ Winata__COLON__ACL2020:
     Liu and Peng Xu and Pascale Fung"
   title    : Meta-Transfer Learning for Code-Switched Speech Recognition
   year     : 2020
+  link     : ''
 Winata__COLON__INTERSPEECH2020:
   conf     : INTERSPEECH
   firstauth: Winata et al.
@@ -467,6 +535,7 @@ Winata__COLON__INTERSPEECH2020:
     Lin and Andrea Madotto and Peng Xu and Pascale Fung"
   title    : Learning Fast Adaptation on Cross-Accented Speech Recognition
   year     : 2020
+  link     : ''
 ASR__DASH__sample__DASH__AAAI21:
   conf     : AAAI
   firstauth: Xiao et al.
@@ -474,18 +543,21 @@ ASR__DASH__sample__DASH__AAAI21:
     and Liang Lin"
   title    : Adversarial Meta Sampling for Multilingual Low-Resource Speech Recognition
   year     : 2021
+  link     : ''
 lux2021meta:
   conf     : ICASSP
   firstauth: Lux et al.
   fullauth : "Lux, Florian and Vu, Ngoc Thang"
   title    : Meta-Learning for improving rare word recognition in end-to-end ASR
   year     : 2021
+  link     : ''
 Klejch__COLON__INTERSPEECH18:
   conf     : INTERSPEECH
   firstauth: Klejch et al.
   fullauth : "Ondřej Klejch and Joachim Fainberg and Peter Bell"
   title    : Learning to adapt:a meta-learning approach for speaker adaptation
   year     : 2018
+  link     : ''
 Chen__COLON__INTERSPEECH20:
   conf     : INTERSPEECH
   firstauth: Chen et al.
@@ -493,18 +565,21 @@ Chen__COLON__INTERSPEECH20:
   title    : 'DARTS-ASR: Differentiable Architecture Search for Multilingual Speech
     Recognition and Adaptation'
   year     : 2020
+  link     : ''
 Baruwa__COLON__IJSER19:
   conf     : IJSER
   firstauth: Baruwa et al.
   fullauth : "Ahmed Baruwa and Mojeed Abisiga and Ibrahim Gbadegesin and Afeez Fakunle"
   title    : Leveraging End-to-End Speech Recognition with Neural Architecture Search
   year     : 2019
+  link     : ''
 SP__DASH__ICASSP21:
   conf     : ICASSP
   firstauth: Wu et al.
   fullauth : "Wu, Yuan-Kuei and Huang, Kuan-Po and Tsao, Yu and Lee, Hung-yi"
   title    : One Shot Learning for Speech Separation
   year     : 2021
+  link     : ''
 Chen__COLON__arXiv18:
   conf     : INTERSPEECH
   firstauth: Chen et al.
@@ -512,6 +587,7 @@ Chen__COLON__arXiv18:
     and  Qing Li"
   title    : An Investigation of Few-Shot Learning in Spoken Term Classification
   year     : 2020
+  link     : ''
 Mazzawi__COLON__INTERSPEECH19:
   conf     : INTERSPEECH
   firstauth: Mazzawi et al.
@@ -521,6 +597,7 @@ Mazzawi__COLON__INTERSPEECH19:
   title    : Improving Keyword Spotting and Language Identification via Neural Architecture
     Search at Scale
   year     : 2019
+  link     : ''
 Shimada__COLON__arXiv19:
   conf     : ICASSP
   firstauth: Shimada et al.
@@ -528,6 +605,7 @@ Shimada__COLON__arXiv19:
   title    : Metric Learning with Background Noise Class for Few-shot Detection of Rare
     Sound Events
   year     : 2020
+  link     : ''
 Chou__COLON__ICASSP19:
   conf     : ICASSP
   firstauth: Chou et al.
@@ -536,6 +614,7 @@ Chou__COLON__ICASSP19:
   title    : Learning to match transient sound events using attentional similarity for
     few-shot sound recognition
   year     : 2019
+  link     : ''
 Chen__COLON__ICLR19:
   conf     : ICLR
   firstauth: Chen et al.
@@ -545,6 +624,7 @@ Chen__COLON__ICLR19:
     \ Vinyals and  Nando de Freitas"
   title    : Sample Efficient Adaptive Text-to-Speech
   year     : 2019
+  link     : ''
 Serra__COLON__NeurIPS19:
   conf     : NeurIPS
   firstauth: "Serrà et al."
@@ -552,6 +632,7 @@ Serra__COLON__NeurIPS19:
   title    : Blow:a single-scale hyperconditioned flow for non-parallel raw-audio voice
     conversion
   year     : 2019
+  link     : ''
 tarunesh2021meta:
   conf     : EACL
   firstauth: Tarunesh et al.
@@ -559,12 +640,14 @@ tarunesh2021meta:
     Ganesh and Jyothi, Preethi"
   title    : Meta-Learning for Effective Multi-task and Multilingual Modelling
   year     : 2021
+  link     : ''
 Eloff__COLON__ICASSP19:
   conf     : ICASSP
   firstauth: Eloff et al.
   fullauth : "Ryan Eloff and Herman A. Engelbrecht and Herman Kamper"
   title    : MULTIMODAL ONE-SHOT LEARNING OF SPEECH AND IMAGES
   year     : 2019
+  link     : ''
 Suris__COLON__arXiv19:
   conf     : arXiv
   firstauth: "Surís et al."
@@ -572,9 +655,11 @@ Suris__COLON__arXiv19:
     \ Carl Vondrick"
   title    : Learning to Learn Words from Narrated Video
   year     : 2019
+  link     : ''
 learningToLearn__COLON__metaNLP21:
   conf     : MetaNLP
   firstauth: Xu et al.
   fullauth : "Guangyue Xu and Parisa Kordjamshidi and Joyce Chai"
   title    : Zero-Shot Compositional Concept Learning
   year     : 2021
+  link     : ''
