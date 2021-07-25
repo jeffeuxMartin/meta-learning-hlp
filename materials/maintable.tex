@@ -1,0 +1,198 @@
+\begin{table*}[tb!]
+  \centering
+  \caption{Reference of NLP tasks using different meta-learning methods.}
+  \label{table:ref}
+    \resizebox{2\columnwidth}{!}{
+      \begin{tabular}{|l||l|l|l|}
+        \hline
+          & (A) \textbf{Learning to initialize} 
+          & (B) \textbf{Learning to compare} 
+          & (C) \textbf{Other}                                          
+        \\ \hline \hline  % ==============================================
+        Text Classification
+          % Learning to initialize
+          & \tabincell{l}{\cite{Dou:EMNLP19}                            \\
+                          \cite{Bansal:arXiv19}                         \\
+                          \cite{holla-etal-2020-learning}               \\
+                          \cite{MetaKD-arXiv21}                         \\
+                          \cite{van-der-heijden-etal-2021-multilingual} \\
+                          \cite{bansal-etal-2020-self}                  \\
+                          \cite{murty-etal-2021-dreca}}
+          % Learning to compare
+          & \tabincell{l}{\cite{Yu:ACL18}                               \\
+                          \cite{Tan:EMNLP19}                            \\
+                          \cite{Geng:EMNLP19}                           \\
+                          \cite{Sun:EMNLP19}                            \\
+                          \cite{geng2020dynamic}}
+          % Other
+          & \tabincell{l}{Learning the learning algorithm:              \\
+                            \cite{Wu:EMNLP19}                           \\
+                          Network architecture search:                  \\
+                            \cite{pasunuru2020fenas}                    \\
+                            \cite{pasunuru2019continual}                \\
+                          \tabincell{l}{Learning to optimize:}          \\
+                            \cite{learningToOptimize:metaNLP21}         \\
+                          Learning to select data:                      \\
+                            \cite{label-correction-aaai21}}
+        \\ \hline
+        Sequence Labelng
+          % Learning to initialize
+          & \tabincell{l}{\cite{Wu:AAAI20}                              \\
+                          \cite{xia-etal-2021-metaxl}}
+          % Learning to compare
+          & \tabincell{l}{\cite{Hou:ACL20}                              \\
+                          \cite{yang2020frustratingly}                  \\
+                          \cite{oguz2021few}}
+          % Other
+          & \tabincell{l}{Network architecture search:                  \\
+                            \cite{li2020learning}                       \\
+                            \cite{jiang2019improved}}
+        \\ \hline
+        Relation Classification
+          % Learning to initialize
+          & \tabincell{l}{\cite{Obamuyide:ACL19}                        \\
+                          \cite{Bose:arXiv19}                           \\
+                          \cite{Lv:EMNLP19}}
+          % Learning to compare
+          & \tabincell{l}{\cite{Ye:ACL19}                               \\
+                          \cite{Chen:EMNLP19}                           \\
+                          \cite{Xiong:EMNLP18}                          \\
+                          \cite{Gao:AAAI19}                             \\
+                          \cite{ren2020two}}
+          &
+        \\ \hline
+        Knowledge Graph Completion
+          &
+          % Learning to compare
+          & \tabincell{l}{\cite{xiong2018one}                           \\
+                          \cite{wang2019tackling}                       \\
+                          \cite{zhang2020few}                           \\
+                          \cite{sheng2020adaptive}}
+          &
+        \\ \hline
+        Word Embedding
+          % Learning to initialize
+          & \cite{Hu:ACL19}
+          % Learning to compare
+          & \cite{Sun:EMNLP18}
+          % Other
+          & \tabincell{l}{Network architecture search:                  \\
+                            \cite{li2020learning}                       \\
+                            \cite{jiang2019improved}}
+        \\ \hline
+        Question Answering
+          % Learning to initialize
+          & \tabincell{l}{\cite{mhamdi-etal-2021-x}                     \\
+                          \cite{nooralahzadeh-etal-2020-zero}           \\
+                          \cite{yan-etal-2020-multi-source}             \\
+                          \cite{hua-etal-2020-shot}}
+          &
+          &
+        \\ \hline
+        Machine Translation
+          % Learning to initialize
+          & \tabincell{l}{\cite{Gu:EMNLP18}                             \\
+                          \cite{Indurthi:arXiv19}                       \\
+                          \cite{Li_Wang_Yu_2020}                        \\
+                          \cite{unsupervisedMT-acl21}}
+          &
+          % Other
+          & \tabincell{l}{Network architecture search:                  \\
+                            \cite{wang2020hat}                          \\
+                          Learning to select data:                      \\
+                            \cite{wang2020balancing}                    \\
+                            \cite{pham2020meta}}
+        \\ \hline
+        Parsing
+          % Learning to initialize
+          & \tabincell{l}{\cite{Guo:ACL19}                              \\
+                          \cite{Huang:NAACL18}                          \\
+                          \cite{multiparsing}                           \\
+                          \cite{chen-etal-2020-low}                     \\
+                          \cite{wang-etal-2021-meta}}
+          &
+          &
+        \\ \hline
+        Dialogue
+          % Learning to initialize
+          & \tabincell{l}{\cite{Qian:ACL19}                             \\
+                          \cite{Madotto:ACL19}                          \\
+                          \cite{Mi:IJCAI19}                             \\
+                          \cite{Huang:ACL20}                            \\
+                          \cite{dingliwal-etal-2021-shot}               \\
+                          \cite{ST-dialogue-AAAI21}                     \\
+                          \cite{dai-etal-2020-learning}                 \\
+                          \cite{huang-etal-2020-towards-low}}
+          &
+          % Other
+          & \tabincell{l}{Learning to optimize:                         \\
+                            \cite{Chien:INTERSPEECH19}}
+      \\ \hline \hline  % ------------------------------------------------
+        Speech Recognition
+          % Learning to initialize
+          & \tabincell{l}{\cite{Hsu:ICASSP20}                           \\
+                          \cite{Klejch:ASRU19}                          \\
+                          \cite{Winata:ACL2020}                         \\
+                          \cite{Winata:INTERSPEECH2020}                 \\
+                          \cite{ASR-sample-AAAI21}}
+          % Learning to compare
+          & \tabincell{l}{\cite{lux2021meta}}
+          % Other
+          & \tabincell{l}{Learning to optimize:                         \\
+                            \cite{Klejch:INTERSPEECH18}                 \\
+                          Network architecture search:                  \\
+                            \cite{Chen:INTERSPEECH20}                   \\
+                            \cite{Baruwa:IJSER19}}
+        \\ \hline
+        Source Separation
+          % Learning to initialize
+          & \cite{SP-ICASSP21}
+          &
+          &
+        \\ \hline
+        Keyword Spotting
+          % Learning to initialize
+          &  \cite{Chen:arXiv18}
+          &
+          % Other
+          & \tabincell{l}{Network architecture search:                  \\
+                            \cite{Mazzawi:INTERSPEECH19}}
+        \\ \hline
+        Sound Event Detection
+          &
+          % Learning to compare
+          & \tabincell{l}{\cite{Shimada:arXiv19}                        \\
+                          \cite{Chou:ICASSP19}}
+          &
+        \\ \hline
+        Voice Cloning
+          &
+          &
+          % Other
+          & \tabincell{l}{Learning the learning algorithm:              \\
+                            \cite{Chen:ICLR19}                          \\
+                            \cite{Serra:NeurIPS19}}
+      \\ \hline \hline  % ------------------------------------------------
+        Multi-tasks
+          &
+          &
+          % Other
+          & \tabincell{l}{Learning to select data:                      \\
+                            \cite{tarunesh2021meta}}
+        \\ \hline
+        Multi-modal
+          &
+          % Learning to compare
+          & \cite{Eloff:ICASSP19}
+          % Other
+          & \tabincell{l}{Learning the learning algorithm:              \\
+                            \cite{Suris:arXiv19}                        \\
+                            \cite{learningToLearn:metaNLP21}}
+        \\ \hline
+      \end{tabular}
+    }
+\end{table*}
+
+\footnotesize
+\bibliography{anthology,eacl2021}
+\bibliographystyle{acl_natbib}
