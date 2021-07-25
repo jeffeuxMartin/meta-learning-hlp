@@ -5,3 +5,7 @@
 3. Compare between the PDF
 4. Other requirements
 5. Normal version for other ML areas
+
+- [x] parenthesis
+- [ ] first authors
+- [ ] link?

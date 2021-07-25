@@ -83,7 +83,6 @@ for cite_key in parsed_yaml:
 
 assert len(hungyi_ref_list) == len(parsed_yaml), \
     "Length different!"
-# print(hungyi_ref_list)
 
 content = parsed_md[:]
 for item in hungyi_ref_list:
@@ -94,7 +93,7 @@ for item in hungyi_ref_list:
         cite_key,
     ) = hungyi_ref_list[item]
     paper_table_form__after = \
-        f"[({item[1:-1]})](#{cite_key})"
+        f"([{item[1:-1]}](#{cite_key}))"
     paper_table_form__wrapped = \
         f"<span id=\"back__{cite_key}\">{paper_table_form__after}</span>"
     
@@ -114,5 +113,5 @@ with open('README.md', 'w') as f:
             cite_key,
         ) = hungyi_ref_list[item]
         paper_list_form__wrapped = \
-            f"- <span id=\"{cite_key}\"> [[{item[1:-1]}]](#back__{cite_key}) {paper_hungyi_ref}</span>"
+            f"- <span id=\"{cite_key}\"> [[{item[1:-1]}](#back__{cite_key})] {paper_hungyi_ref}</span>"
         f.write(paper_list_form__wrapped + '\n')

@@ -14,7 +14,7 @@ Bansal__COLON__arXiv19:
   year     : 2019
 holla__DASH__etal__DASH__2020__DASH__learning:
   conf     : Findings of EMNLP
-  firstauth: Nithin et al.
+  firstauth: Holla et al.
   fullauth : "Holla, Nithin and Mishra, Pushkar and Yannakoudakis, Helen and Shutova,
     Ekaterina"
   title    : 'Learning to Learn to Disambiguate: Meta-Learning for Few-Shot Word Sense
@@ -28,7 +28,7 @@ MetaKD__DASH__arXiv21:
   year     : 2021
 van__DASH__der__DASH__heijden__DASH__etal__DASH__2021__DASH__multilingual:
   conf     : EACL
-  firstauth: Van der Heijden et al.
+  firstauth: van der Heijden et al.
   fullauth : "van der Heijden, Niels and Yannakoudakis, Helen and Mishra, Pushkar and
     Shutova, Ekaterina"
   title    : 'Multilingual and cross-lingual document classification: A meta-learning
@@ -91,13 +91,13 @@ Wu__COLON__EMNLP19:
   year     : 2019
 pasunuru2020fenas:
   conf     : EMNLP
-  firstauth: Pasunuru et al.
+  firstauth: Pasunuru and Bansal et al.
   fullauth : "Pasunuru, Ramakanth and Bansal, Mohit"
   title    : 'FENAS: Flexible and Expressive Neural Architecture Search'
   year     : 2020
 pasunuru2019continual:
   conf     : ACL
-  firstauth: Pasunuru et al.
+  firstauth: Pasunuru and Bansal et al.
   fullauth : "Pasunuru, Ramakanth and Bansal, Mohit"
   title    : Continual and Multi-Task Architecture Search
   year     : 2019
@@ -139,14 +139,14 @@ Hou__COLON__ACL20:
   year     : 2020
 yang2020frustratingly:
   conf     : EMNLP
-  firstauth: Yi et al.
+  firstauth: Yi and Katiyar
   fullauth : "Yang, Yi and Katiyar, Arzoo"
   title    : Frustratingly Simple Few-Shot Named Entity Recognition with Structured Nearest
     Neighbor Learning
   year     : 2020
 oguz2021few:
   conf     : EACL
-  firstauth: Oguz et al.
+  firstauth: Oguz and Vu
   fullauth : "Oguz, Cennet and Vu, Ngoc Thang"
   title    : Few-shot Learning for Slot Tagging with Attentive Relational Network
   year     : 2021
@@ -167,7 +167,7 @@ jiang2019improved:
   year     : 2019
 Obamuyide__COLON__ACL19:
   conf     : ACL
-  firstauth: Obamuyide et al.
+  firstauth: Obamuyide and Vlachos
   fullauth : "Abiola Obamuyide and Andreas Vlachos"
   title    : Model-Agnostic Meta-Learning for Relation Classification with Limited Supervision
   year     : 2019
@@ -437,7 +437,7 @@ huang__DASH__etal__DASH__2020__DASH__towards__DASH__low:
   year     : 2020
 Chien__COLON__INTERSPEECH19:
   conf     : INTERSPEECH
-  firstauth: Chien et al.
+  firstauth: Chien and Lieow
   fullauth : "Jen-Tzung Chien and Wei Xiang Lieow"
   title    : Meta Learning for Hyperparameter Optimization in Dialogue System
   year     : 2019
