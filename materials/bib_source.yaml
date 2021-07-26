@@ -663,3 +663,12 @@ learningToLearn__COLON__metaNLP21:
   title    : Zero-Shot Compositional Concept Learning
   year     : 2021
   link     : ''
+
+# Recommended by Kuan-Po Huang
+Huang__DASH__ACLMeta:
+  conf     : MetaNLP
+  firstauth: Huang et al.
+  fullauth : "Kuan-Po Huang, Yuan-Kuei Wu, Hung-yi Lee"
+  title    : Multi-accent Speech Separation with One Shot Learning
+  year     : 2021
+  link     : 'https://arxiv.org/pdf/2106.11713.pdf'
