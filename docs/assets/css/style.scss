@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-.main-content {
+section#main_content {
     table {
         border-color: red !important;
     }
