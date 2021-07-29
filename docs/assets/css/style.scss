@@ -6,22 +6,10 @@ section#main_content {
     table {
         border-collapse: collapse;
         th, td {
-            // border-width: 2px;
             font-family: 'Times New Roman', Times, serif;
             font-size: 120%;
-            // border-color: aqua;
-            // border: 2px solid rgb(59, 73, 59);
-            border: 2px solid red;
-            // border-collapse: collapse;
-        }
-        tr {
-            // border-width: 2px;
-            font-family: 'Times New Roman', Times, serif;
-            font-size: 120%;
-            // border-color: aqua;
-            // border: 2px solid rgb(59, 73, 59);
-            border: 2px solid lime;
-            // border-collapse: collapse;
+            border-width: 1px;
+            border-style: solid;
         }
     }
     ul {

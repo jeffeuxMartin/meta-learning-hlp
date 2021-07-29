@@ -1,7 +1,5 @@
 <h1 id="meta-learning-for-human-language-processing">Meta Learning For Human Language Processing</h1>
-<section id="downloads">      
-	<a href="https://github.com/jeffeuxMartin/meta-learning-hlp" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-</section>
+<a href="https://github.com/jeffeuxMartin/meta-learning-hlp" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
 <table>
 	<thead>
 		<tr>
