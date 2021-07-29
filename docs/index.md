@@ -1,4 +1,4 @@
-<h1 id="meta-learning-for-human-language-processing">Meta Learning For Human Language Processing &emsp;
+<h1 id="meta-learning-for-human-language-processing">Meta Learning For Human Language Processing &ensp;
   <a href="https://github.com/jeffeuxMartin/meta-learning-hlp" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
 </h1>
 
@@ -228,6 +228,8 @@
     </tr>
   </tbody>
 </table>
+
+<h2>Reference</h2>
 <ul>
   <li><span id="bansal__DASH__etal__DASH__2020__DASH__self"> [<a
         href="#back__bansal__DASH__etal__DASH__2020__DASH__self">Bansal et al., EMNLP’20</a>] <i>Bansal, Trapit
