@@ -4,6 +4,6 @@
 @import "{{ site.theme }}";
 .main-content {
     h1 {
-        color: red;
+        color: red !important;
     }
 }
