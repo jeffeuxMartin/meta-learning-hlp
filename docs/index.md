@@ -3,7 +3,7 @@ title: Meta Learning For Human Language Processing
 ---
 
 <h1 id="meta-learning-for-human-language-processing">Meta Learning For Human Language Processing</h1>
-<table border='1'>
+<table>
 	<thead>
 		<tr>
 			<th></th>
