@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+section#main_content {
+    table {
+        font-family: 'Times New Roman', Times, serif
+    }
+}
