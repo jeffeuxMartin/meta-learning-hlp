@@ -3,7 +3,10 @@
 
 @import "{{ site.theme }}";
 .main-content {
-    main_content {
+    table {
         border-color: red !important;
+    }
+    h1#meta-learning-for-human-language-processing {
+        color: lime;
     }
 }
