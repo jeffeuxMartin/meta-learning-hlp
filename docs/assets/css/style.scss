@@ -4,13 +4,6 @@
 @import "{{ site.theme }}";
 section#main_content {
     table {
-        border-color: red !important;
+        border: 3px #FF0000 solid;
     }
-    h1#meta-learning-for-human-language-processing {
-        color: lime !important;
-    }
-}
-
-h1#meta-learning-for-human-language-processing {
-    color: red !important;
 }
