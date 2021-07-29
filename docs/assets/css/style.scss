@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 section#main_content {
     table {
+        border-collapse: collapse;
         th, td {
             // border-width: 2px;
             font-family: 'Times New Roman', Times, serif;
