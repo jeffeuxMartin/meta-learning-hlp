@@ -1,5 +1,5 @@
-<h1 id="meta-learning-for-human-language-processing">(Adjusting) Meta learning for human language processing</h1>
-<table cellpadding="10" border='1'>
+<h1 id="meta-learning-for-human-language-processing">Meta learning for human language processing</h1>
+<table border='1'>
 	<thead>
 		<tr>
 			<th></th>
