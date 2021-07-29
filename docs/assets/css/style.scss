@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 .main-content {
-    h1 {
-        color: red !important;
+    main_content {
+        border-color: red !important;
     }
 }
