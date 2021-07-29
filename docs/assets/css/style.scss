@@ -2,6 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+header {
+    border-bottom: 0px;
+    padding: 5px 0;
+}
 section#main_content {
     table {
         border: 2px;
