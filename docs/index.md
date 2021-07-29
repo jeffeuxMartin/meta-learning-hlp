@@ -233,7 +233,7 @@
 	<li><span id="Bansal__COLON__arXiv19"> [<a href="#back__Bansal__COLON__arXiv19">Bansal et al., arXiv’19</a>]
 			<i>Trapit Bansal and Rishikesh Jha and Andrew McCallum</i>, Learning to Few-Shot Learn Across Diverse
 			Natural Language Classification Tasks, arXiv, 2019 <a
-				href="https://aclanthology.org/2020.coling-main.448.pdf">:link:</a></span></li>
+				href="https://aclanthology.org/2020.coling-main.448.pdf">🔗</a></span></li>
 	<li><span id="Baruwa__COLON__IJSER19"> [<a href="#back__Baruwa__COLON__IJSER19">Baruwa et al., IJSER’19</a>]
 			<i>Ahmed Baruwa and Mojeed Abisiga and Ibrahim Gbadegesin and Afeez Fakunle</i>, Leveraging End-to-End
 			Speech Recognition with Neural Architecture Search, IJSER, 2019</span></li>
@@ -320,7 +320,7 @@
 			Low-Resource Semi-Supervised Dialogue Generation with Meta-Learning, Findings of EMNLP, 2020</span></li>
 	<li><span id="Huang__DASH__ACLMeta"> [<a href="#back__Huang__DASH__ACLMeta">Huang et al., MetaNLP’21</a>] <i>Kuan-Po
 				Huang, Yuan-Kuei Wu, Hung-yi Lee</i>, Multi-accent Speech Separation with One Shot Learning, MetaNLP,
-			2021 <a href="https://arxiv.org/pdf/2106.11713.pdf">:link:</a></span></li>
+			2021 <a href="https://arxiv.org/pdf/2106.11713.pdf">🔗</a></span></li>
 	<li><span id="Huang__COLON__NAACL18"> [<a href="#back__Huang__COLON__NAACL18">Huang et al., NAACL’18</a>] <i>Po-Sen
 				Huang and Chenglong Wang and Rishabh Singh and Wen-tau Yih and Xiaodong He</i>, Natural Language to
 			Structured Query Generation via Meta-Learning, NAACL, 2018</span></li>
@@ -438,7 +438,7 @@
 	<li><span id="wang__DASH__etal__DASH__2021__DASH__meta"> [<a
 				href="#back__wang__DASH__etal__DASH__2021__DASH__meta">Wang et al., NAACL’21</a>] <i>Wang, Bailin and
 				Lapata, Mirella and Titov, Ivan</i>, Meta-Learning for Domain Generalization in Semantic Parsing, NAACL,
-			2021 <a href="https://aclanthology.org/2021.naacl-main.33.pdf">:link:</a></span></li>
+			2021 <a href="https://aclanthology.org/2021.naacl-main.33.pdf">🔗</a></span></li>
 	<li><span id="Winata__COLON__ACL2020"> [<a href="#back__Winata__COLON__ACL2020">Winata et al., ACL’20</a>] <i>Genta
 				Indra Winata and Samuel Cahyawijaya and Zhaojiang Lin and Zihan Liu and Peng Xu and Pascale Fung</i>,
 			Meta-Transfer Learning for Code-Switched Speech Recognition, ACL, 2020</span></li>
@@ -503,5 +503,5 @@
 				href="#back__van__DASH__der__DASH__heijden__DASH__etal__DASH__2021__DASH__multilingual">van der Heijden
 				et al., EACL’21</a>] <i>van der Heijden, Niels and Yannakoudakis, Helen and Mishra, Pushkar and Shutova,
 				Ekaterina</i>, Multilingual and cross-lingual document classification: A meta-learning approach, EACL,
-			2021 <a href="https://aclanthology.org/2021.eacl-main.168.pdf">:link:</a></span></li>
+			2021 <a href="https://aclanthology.org/2021.eacl-main.168.pdf">🔗</a></span></li>
 </ul>
