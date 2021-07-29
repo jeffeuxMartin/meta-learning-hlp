@@ -4,9 +4,10 @@
 @import "{{ site.theme }}";
 section#main_content {
     table {
-        border: 2px;
+        border-width: 2px;
         font-family: 'Times New Roman', Times, serif;
         font-size: 120%;
+        border-color: aqua;
     }
     ul {
         font-family: 'Times New Roman', Times, serif;
