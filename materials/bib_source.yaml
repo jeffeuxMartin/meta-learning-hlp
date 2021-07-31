@@ -546,7 +546,7 @@ ASR__DASH__sample__DASH__AAAI21:
   link     : ''
 lux2021meta:
   conf     : ICASSP
-  firstauth: Lux et al.
+  firstauth: Lux and Vu
   fullauth : "Lux, Florian and Vu, Ngoc Thang"
   title    : Meta-Learning for improving rare word recognition in end-to-end ASR
   year     : 2021
